@@ -18,18 +18,22 @@ avatar:
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email: info@workshopsforretirement.com 
-  facebook: Workshops-for-Retirement-1915483632035707/
+  email: info@workshopsforretirement.com
+  facebook:
   flickr:
   github:
-  instagram: /workshopsforretirement%20
+  instagram:
   linkedin:
   pinterest:
   rss: # just type anything here for a working RSS icon
   twitter:
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
-  youtube: @workshopsforretirement
+  youtube:
   googleplus: # anything in your profile username that comes after plus.google.com/
+
+  # Workshops-for-Retirement-1915483632035707/
+  # /workshopsforretirement%20
+  # @workshopsforretirement
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
 # You can find your shortname on the Settings page of your Disqus account
