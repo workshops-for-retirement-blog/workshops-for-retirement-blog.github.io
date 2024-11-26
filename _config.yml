@@ -3,10 +3,10 @@
 #
 
 # Name of your site (displayed in the header)
-name: Basic Blog Setup
+name: Workshops for Retirement
 
 # Short bio or description (displayed in the header)
-description: A Description of the Blog
+description: Are you ready for retirement?
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar:
@@ -18,17 +18,17 @@ avatar:
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email: contact@test.com
-  facebook:
+  email: info@workshopsforretirement.com 
+  facebook: Workshops-for-Retirement-1915483632035707/
   flickr:
   github:
-  instagram:
+  instagram: /workshopsforretirement%20
   linkedin:
   pinterest:
   rss: # just type anything here for a working RSS icon
   twitter:
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
-  youtube:
+  youtube: @workshopsforretirement
   googleplus: # anything in your profile username that comes after plus.google.com/
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
