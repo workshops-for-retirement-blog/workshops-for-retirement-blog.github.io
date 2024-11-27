@@ -5,7 +5,7 @@ title: Thanksgiving Trivia 2024 - Fun Facts and Quizzes for the Holidays
 
 Thanksgiving is not only a time for turkey and family gatherings but also a perfect opportunity to learn more about the holiday's history, traditions, and quirks. Whether you’re hosting a dinner or just looking for a fun activity to entertain your guests, Thanksgiving trivia is a great way to engage everyone and add some extra holiday cheer. In this post, we’ll explore fascinating facts and offer some trivia questions to spice up your Thanksgiving.
 
-![Thanksgiving Table] <div style="width:100%;height:0;padding-bottom:66%;position:relative;"><iframe src="https://giphy.com/embed/k3NBZE3t3rm6zo7h04/video" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/clips/studiosoriginals-thanksgiving-happy-k3NBZE3t3rm6zo7h04">via GIPHY</a></p>
+<div style="width:100%;height:0;padding-bottom:66%;position:relative;"><iframe src="https://giphy.com/embed/k3NBZE3t3rm6zo7h04/video" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/clips/studiosoriginals-thanksgiving-happy-k3NBZE3t3rm6zo7h04">via GIPHY</a></p>
 ## A Brief History of Thanksgiving 🦃
 
 Thanksgiving traces its roots back to 1621, when the Pilgrims and the Wampanoag shared a harvest feast in Plymouth. Over the years, it evolved into a national holiday, officially declared by President Abraham Lincoln in 1863. Today, Thanksgiving is celebrated on the fourth Thursday of November in the United States, filled with traditions like parades, football games, and, of course, delicious feasts.
