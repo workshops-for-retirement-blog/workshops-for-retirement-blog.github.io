@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Navigating Life's Next Chapter: When the Bell Rings for Retirement
+title: Navigating Life's Next Chapter - When the Bell Rings for Retirement
 ---
 
 
