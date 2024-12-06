@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Navigating Your Golden Years: Free Workshops Await
+title: Navigating Your Golden Years - Free Workshops Await
 ---
 
 
