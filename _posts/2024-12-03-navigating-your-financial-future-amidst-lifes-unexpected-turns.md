@@ -4,8 +4,6 @@ title: Navigating Your Financial Future Amidst Life's Unexpected Turns
 ---
 
 
----
-
 Imagine waking up to the news of school cancellations. The immediate scramble to adjust plans is all too familiar, isn't it? While school closures are temporary disruptions that we manage to navigate, planning for retirement shouldn't be a last-minute scramble. It requires foresight and structured guidance, much like preparing for a snow day in advance.
 
 As you approach retirement, with $50,000 or more in investable assets, the need for a solid plan becomes imperative. This is where our free retirement planning workshops come into play, offering you the tools and knowledge to ensure a secure financial future, even amidst life's unexpected turns.
