@@ -4,8 +4,6 @@ title: Winning Your Financial Future The Smart Way
 ---
 
 
----
-
 Imagine this: you’ve just won the lottery. The thrill, the excitement, the endless possibilities! But what if I told you that, with a little planning and smart financial moves, you could feel the same way about your retirement? For those of you nearing retirement with over $50,000 in investable assets, it's time to stop dreaming and start planning. It's time to learn how to make your financial future feel like a jackpot win every day.
 
 ### Why Attend a Free Retirement Planning Workshop
