@@ -1,6 +1,6 @@
 ---
 layout: post
-title: **Empower Your Golden Years with Financial Wisdom**
+title: Empower Your Golden Years with Financial Wisdom
 ---
 
 
