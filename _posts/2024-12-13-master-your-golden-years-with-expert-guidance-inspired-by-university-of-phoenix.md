@@ -4,7 +4,6 @@ title: Master Your Golden Years with Expert Guidance Inspired by University of P
 ---
 
 
----
 
 As we approach the golden years of retirement, navigating the complexities of financial planning can feel overwhelming. For individuals with over $50,000 in investable assets, ensuring a secure and enjoyable retirement is paramount. Enter a solution inspired by the educational rigor of the University of Phoenix—free retirement planning workshops designed to equip you with the knowledge and confidence to make informed financial decisions.
 

@@ -4,7 +4,6 @@ title: Navigate the Future Today Inspired by School Delays and Closings
 ---
 
 
----
 
 When the school bell rings, signaling unexpected delays and closings, we are reminded of the importance of preparation. Just as planning for a snow day can ease the stress for parents and students alike, planning for retirement can offer peace of mind for those on the cusp of this new chapter. If you have over $50,000 in investable assets and are nearing retirement, there's no better time to start planning. Consider attending free retirement planning workshops designed to help you navigate this exciting yet complex transition with ease.
 
