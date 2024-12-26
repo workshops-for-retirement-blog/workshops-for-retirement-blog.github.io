@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Navigating Your Golden Years: A Roadmap to Financial Freedom
+title: Navigating Your Golden Years - A Roadmap to Financial Freedom
 ---
 
 
