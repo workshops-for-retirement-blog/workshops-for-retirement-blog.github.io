@@ -1,6 +1,6 @@
 ---
 layout: post
-title: **Snowfall of Savings A New Season of Financial Freedom**
+title: Snowfall of Savings A New Season of Financial Freedom
 ---
 
 

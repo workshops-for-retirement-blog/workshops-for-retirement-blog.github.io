@@ -1,6 +1,6 @@
 ---
 layout: post
-title: **Golden Years Ahead: The Wisdom of Three Women**
+title: Golden Years Ahead - The Wisdom of Three Women
 ---
 
 

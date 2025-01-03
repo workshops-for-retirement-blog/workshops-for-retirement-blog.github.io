@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Navigating Your Golden Years: Insights from Argentina
+title: Navigating Your Golden Years - Insights from Argentina
 ---
 
 
