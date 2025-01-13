@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Safe Harbor: Navigating Your Financial Future with Home Insurance and More
+title: Safe Harbor - Navigating Your Financial Future with Home Insurance and More
 ---
 
 
