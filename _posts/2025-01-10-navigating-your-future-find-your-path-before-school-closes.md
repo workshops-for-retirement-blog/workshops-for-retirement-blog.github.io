@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ### Navigating Your Future: Find Your Path Before School Closes
+title: Navigating Your Future - Find Your Path Before School Closes
 ---
 
 
