@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Closings in on Your Financial Future: The Value of Retirement Workshops
+title: Closings in on Your Financial Future - The Value of Retirement Workshops
 ---
 
 
