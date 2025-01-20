@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Retirement Roadmap: A Workshop Journey with Insights from Personal Injury Lawyers
+title: Retirement Roadmap - A Workshop Journey with Insights from Personal Injury Lawyers
 ---
 
 

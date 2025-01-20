@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Cars and Cash: Navigating the Road to a Secure Retirement
+title: Cars and Cash - Navigating the Road to a Secure Retirement
 ---
 
 
