@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Retire with Confidence on Blue Monday: Unlock Your Future with Free Workshops
+title: Retire with Confidence on Blue Monday - Unlock Your Future with Free Workshops
 ---
 
 
