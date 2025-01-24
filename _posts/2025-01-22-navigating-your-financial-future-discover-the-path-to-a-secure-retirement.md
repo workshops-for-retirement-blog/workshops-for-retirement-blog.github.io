@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ### Navigating Your Financial Future: Discover the Path to a Secure Retirement
+title: Navigating Your Financial Future - Discover the Path to a Secure Retirement
 ---
 
 
