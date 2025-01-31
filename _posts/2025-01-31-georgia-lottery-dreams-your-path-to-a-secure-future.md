@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Georgia Lottery Dreams: Your Path to a Secure Future
+title: Georgia Lottery Dreams - Your Path to a Secure Future
 ---
 
 
