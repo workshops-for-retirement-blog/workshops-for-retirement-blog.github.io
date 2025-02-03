@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Test Title: S and P 500 Futures and Your Retirement Dreams"
+title: "S and P 500 Futures and Your Retirement Dreams"
 date: 2025-02-03 07:03:59 -0600
 ---
 
