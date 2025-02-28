@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "### A Grand Slam Approach to Your Retirement Game Inspired by Iga Świątek"
+title: "A Grand Slam Approach to Your Retirement Game Inspired by Iga Świątek"
 date: 2025-02-20 05:05:03 -0600
 permalink: /a-grand-slam-approach-to-your-retirement-game-inspired-by-iga-witek/
 ---
