@@ -1,0 +1,29 @@
+// Add your custom SCSS here
+
+// Button Styles
+.cookie-btn {
+    &.cookie-btn-customize {
+      &:hover {
+        background-color: darken($color-body-background, 10%);
+      }
+    }
+    
+    &.cookie-btn-reject {
+      &:hover {
+        background-color: darken($color-body-background, 10%);
+      }
+    }
+    
+    &.cookie-btn-accept {
+      background-color: $color-body-foreground;
+      color: $color-body-background;
+      
+      &:hover {
+        background-color: darken($color-text-accent, 10%);
+      }
+    }
+  }
+
+  .site-title-link {
+    color: $color-foreground;
+  }
